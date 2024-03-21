@@ -1,0 +1,23 @@
+body{
+    font-family: Candara;
+    color: #181ab8;
+    background-color: aquamarine;
+}
+#linkki{
+    text-decoration: none;
+}
+
+#linkki:hover{
+    color: crimson;
+}
+
+#kuva{
+    border-radius: 50px;
+    border: 10px solid green;
+}
+tr:nth-child(odd) {
+    background-color: crimson;
+}
+#list{
+   list-style: none;
+}
